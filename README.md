@@ -1,7 +1,7 @@
 <h2>Análise de um Dataset de vendas</h2>
 <h4>O que foi feito nesse projeto?</h4>
 <ul>
-  <li>Foi feito uma breve análise exploratória de dados (EDA), onde foi verificado se havia valores NaN no Dataset utilizado.</li>
+  <li>Foi feito uma breve análise exploratória de dados (EDA), onde foi verificado se haviam valores NaN no Dataset utilizado.</li>
   <li>Foram realizadas transformações nos dados. Podemos destacar transformações como:
   <ul>
     <li>Remoção de avalores NaN;</li>
